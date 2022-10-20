@@ -1,0 +1,13 @@
+// following loop starts from 0 index and loops until n
+for(let i=0; i<=n; i++) {
+
+   // following loop starts at 0 index and runs until n
+   for (let j=0; j<=n; i++) {
+
+        // following statement will be repeated n * n times
+        console.log(i, j);
+   }
+}
+
+// time complexity of above loops
+T(n) = O(n^2)
