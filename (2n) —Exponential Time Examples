@@ -1,5 +1,0 @@
-for (var i = 0; i < dataset.len; i++ {
-    for (var j = 0; j < dataset.len; j++) {
-        //do stuff with i and j
-    }
-}
